@@ -20,7 +20,7 @@ public class VoiceMovementCube : MonoBehaviour
         actions.Add("smaller", Smaller);
         actions.Add("rotate right", RotateRight);
         actions.Add("rotate left", RotateLeft);
-        actions.Add("fall", Fall);
+        //actions.Add("fall", Fall);
         actions.Add("stop", Stop);
 
 
